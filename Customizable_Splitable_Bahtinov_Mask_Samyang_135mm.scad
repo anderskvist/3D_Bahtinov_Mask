@@ -17,14 +17,17 @@
 // The telescope focus length 
 focus = 1500; // [10:1000] // SkyMax 127
 focus = 420; // [10:1000] // EvoStar 72ED
+focus = 190; // Cheap guide scope
 
 // The telescope light's path diameter.
 aperture = 127; // [30:200] // SkyMax 127
 aperture = 72; // [30:200] // EvoStar 72ED
+aperture = 50; // Cheap guide scope
 
 // This is the inner diameter of the mask.
 inner_Diameter = 146; // [31:250] // SkyMax 127
 inner_Diameter = 91 ; // [31:250] // EvoStar 72ED
+inner_Diameter = 59; // Cheap guide scope
 
 // Height of mask
 mask_Height = 2; // [1:10]
