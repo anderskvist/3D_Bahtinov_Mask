@@ -18,16 +18,19 @@
 focus = 1500; // [10:1000] // SkyMax 127
 focus = 420; // [10:1000] // EvoStar 72ED
 focus = 190; // Cheap guide scope
+focus = 600; // Sigma 150-600mm f/5-6.3 + lens hood
 
 // The telescope light's path diameter.
 aperture = 127; // [30:200] // SkyMax 127
 aperture = 72; // [30:200] // EvoStar 72ED
 aperture = 50; // Cheap guide scope
+aperture = 110; // Sigma 150-600mm f/5-6.3 + lens hood
 
 // This is the inner diameter of the mask.
 inner_Diameter = 146; // [31:250] // SkyMax 127
 inner_Diameter = 91 ; // [31:250] // EvoStar 72ED
 inner_Diameter = 59; // Cheap guide scope
+inner_Diameter = 121; // Sigma 150-600mm f/5-6.3 + lens hood
 
 // Height of mask
 mask_Height = 2; // [1:10]
